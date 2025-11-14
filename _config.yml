@@ -1,7 +1,5 @@
-title: Your Site
-description: Your description here
 
-remote_theme: cotes2020/jekyll-theme-chirpy
+remote_theme: just-the-docs/just-the-docs
 
 plugins:
   - jekyll-remote-theme
